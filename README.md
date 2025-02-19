@@ -16,5 +16,5 @@ A simple **handwritten digit recognition app** using **TensorFlow.js**. Draw a n
 
 ## 📸 Screenshots
 
-![Model training in progress](./screenshots/training-in-progress.png)
-![Prediction UI](./screenshots/prediction-ui.png)
+![Drawing a number](public/screenshots/drawing.png)
+![Prediction result](public/screenshots/prediction.png)
